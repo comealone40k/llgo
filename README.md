@@ -1,5 +1,9 @@
 # Example Kafka Consumer
 
+## Install python3 & kafka-python
+
+pip3 install kafka-python
+
 ## Run
 
  python3 kafka_consumer.py
